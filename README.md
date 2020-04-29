@@ -1,1 +1,3 @@
 # Snake-game
+
+In javascript 
